@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <question name ="question1">
+        <texte>Blabla</texte>
+        <string-array name="reponse">
+            <item></item>
+            <item></item>
+        </string-array>
+    </question>
+</resources>
